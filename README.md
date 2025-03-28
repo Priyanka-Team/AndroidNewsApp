@@ -25,9 +25,6 @@ The app follows **MVVM** architecture:
 - **Kotlin** (Primary Language)
 - **Jetpack Compose** (UI)
 - **Retrofit** (API Calls)
-- **Coroutines & Flow** (Async operations)
-- **Hilt** (Dependency Injection)
-
 ---
 
 ## 🔑 API Configuration
